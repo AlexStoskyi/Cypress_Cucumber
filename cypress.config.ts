@@ -6,8 +6,8 @@ import { createEsbuildPlugin } from '@badeball/cypress-cucumber-preprocessor/esb
 import Endpoint from './cypress/fixtures/endpoint.json';
 
 module.exports = defineConfig({
+    projectId: "vspc29",
     e2e: {
-        projectId: "vspc29",
         baseUrl: Endpoint.baseUrl,
         specPattern: '**/*.feature',
         async setupNodeEvents(on: Cypress.PluginEvents, config: Cypress.PluginConfigOptions): Promise<Cypress.PluginConfigOptions> {
