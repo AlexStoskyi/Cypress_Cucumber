@@ -1,7 +1,7 @@
 {
-    "checkErrorMess": "Error: First Name is required",
-    "checkOverview": "Checkout: Overview",
-    "successfulMess": "Thank you for your order!",
-    "userErrorMess": "Epic sadface: Username is required",
-    "userAndPassErrorMess": "Epic sadface: Username and password do not match any user in this service"
+  "checkErrorMess": "Error: First Name is required",
+  "checkOverview": "Checkout: Overview",
+  "successfulMess": "Thank you for your order!",
+  "userErrorMess": "Epic sadface: Username is required",
+  "userAndPassErrorMess": "Epic sadface: Username and password do not match any user in this service"
 }

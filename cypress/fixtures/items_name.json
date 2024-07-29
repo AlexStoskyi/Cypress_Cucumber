@@ -1,7 +1,7 @@
 {
-    "all": "All Items",
-    "about": "About",
-    "logout": "Logout",
-    "reset": "Reset App State",
-    "cartNumb": "1"
+  "all": "All Items",
+  "about": "About",
+  "logout": "Logout",
+  "reset": "Reset App State",
+  "cartNumb": "1"
 }
