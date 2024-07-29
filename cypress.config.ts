@@ -29,5 +29,8 @@ module.exports = defineConfig({
             });
             return config;
         },
+        video: true,
+        screenshotsFolder: 'cypress/screenshots',
+        screenshotOnRunFailure: true,
     }
 });
