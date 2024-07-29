@@ -4,8 +4,8 @@
   "description": "cy,cucumber,npx,ts",
   "main": "index.js",
   "scripts": {
-    "open": "npx cypress open",
-    "cypress run": "npx cypress run --record --key c3d7ca9f-6a5f-43b6-a803-a2370b8214ea"
+    "cy open": "npx cypress open",
+    "cy run": "cypress run --record --key $CYPRESS_RECORD_KEY"
   },
   "repository": {
     "type": "git",
